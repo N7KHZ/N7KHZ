@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...rfrett@cox.net
-- DMR FW for Anytone 878 V2
+- DMR FW for Anytone 878 V2 and TYT MD 9600
 - 
 
 <!---
